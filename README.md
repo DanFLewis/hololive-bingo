@@ -3,8 +3,7 @@
 **Live:** https://danflewis.github.io/hololive-bingo/
 
 A bingo card for watching Calliope Mori's streams, made in October 2020. The squares are her
-catchphrases and running jokes ("PEACE!!!", "MIZU!!!", "sleepy reaper", "cursed instrument performance", Kusotori in
-chat and so on). Each time the page loads you get a different card, picked at random from a million shuffles, so
+catchphrases and running jokes. Each time the page loads you get a different card, picked at random from a million shuffles, so
 every viewer gets their own.
 
 ## Where it came from
